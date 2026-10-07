@@ -907,44 +907,20 @@ HPL
 > **MPI + OpenMP/BLAS hybrid parallelism → Cache → Blocking → DGEMM → CPU binding → Profiling**
 
 ##### 30. 可复现性
-
 实验目录：
-
-  
 /home/user/HPC/hpl
- 
-
 主要交付：
 
-  
 bin/Linux_Intel64/xhpl
 HPL.dat
 Make.Linux_Intel64
 HPL_OPTIMIZATION_REPORT.md
 experiments/
 scripts/
- 
 
-其中：
+其中：experiments/保存各组实验的：log、dat等原始结果。 
 
-  
-experiments/
- 
-
-保存各组实验的：
-
-  
-log
-dat
- 
-
-等原始结果。
-
-  
-scripts/
- 
-
-用于实验复现。
+scripts/用于实验复现。
 ##### 31. 最终配置摘要
 | 项目 | Baseline | Final |
 |---|---|---|

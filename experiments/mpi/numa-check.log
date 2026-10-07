@@ -1,0 +1,3 @@
+/home/user/HPC/hpl/scripts/test_binding_numa.sh: line 15: numactl: command not found
+NUMA node(s):                            1
+NUMA node0 CPU(s):                       0-15

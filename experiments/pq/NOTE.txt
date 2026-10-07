@@ -1,0 +1,1 @@
+PQ data in ../mpi/mpi-np*.log, pattern P-small-Q-large wins, see report 7.6
